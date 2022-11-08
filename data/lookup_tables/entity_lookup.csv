@@ -1,0 +1,322 @@
+Entity_Category,Entity
+Bp?,Africa (Bp)
+Bp?,Other South And Central America (Bp)
+Bp?,Other South America (Bp)
+Bp?,Other Northern Africa (Bp)
+Bp?,Other Middle East (Bp)
+Bp?,Other Europe (Bp)
+Bp?,Other Cis (Bp)
+Bp?,Other Asia Pacific (Bp)
+Bp?,Other Africa (Bp)
+Bp?,Other Southern Africa (Bp)
+Bp?,Oecd (Bp)
+Bp?,Non-Oecd (Bp)
+Bp?,Middle East (Bp)
+Bp?,Middle Africa (Bp)
+Bp?,Europe (Bp)
+Bp?,Eastern Africa (Bp)
+Bp?,Central America (Bp)
+Bp?,Cis (Bp)
+Bp?,Asia Pacific (Bp)
+Bp?,North America (Bp)
+Bp?,South And Central America (Bp)
+Bp?,Other Caribbean (Bp)
+Bp?,Western Africa (Bp)
+Bp?,Total Non-Opec (Bp)
+Bp?,Other Western Africa (Bp)
+Bp?,Other Middle Africa (Bp)
+Bp?,Other Eastern Africa (Bp)
+Bp?,Total Opec (Bp)
+Continent,Antarctica
+Continent,Africa
+Continent,Asia
+Continent,South America
+Continent,North America
+Continent,Europe
+Country,Russia
+Country,Romania
+Country,Reunion
+Country,Saudi Arabia
+Country,Puerto Rico
+Country,Portugal
+Country,Poland
+Country,Philippines
+Country,Peru
+Country,Qatar
+Country,Rwanda
+Country,Saint Helena
+Country,Sao Tome And Principe
+Country,Sierra Leone
+Country,Saint Kitts And Nevis
+Country,Saint Lucia
+Country,Saint Pierre And Miquelon
+Country,Saint Vincent And The Grenadines
+Country,Samoa
+Country,Seychelles
+Country,Serbia
+Country,Senegal
+Country,Paraguay
+Country,Ryukyu Islands
+Country,Papua New Guinea
+Country,Afghanistan
+Country,Panama
+Country,Moldova
+Country,Mongolia
+Country,Montenegro
+Country,Montserrat
+Country,Morocco
+Country,Mozambique
+Country,Myanmar
+Country,Namibia
+Country,Nauru
+Country,Nepal
+Country,Netherlands
+Country,New Caledonia
+Country,Singapore
+Country,New Zealand
+Country,Nicaragua
+Country,Nigeria
+Country,Niue
+Country,North Korea
+Country,North Macedonia
+Country,Norway
+Country,Oceania
+Country,Oman
+Country,Pakistan
+Country,Palau
+Country,Palestine
+Country,Panama Canal Zone
+Country,Sint Maarten (Dutch Part)
+Country,Taiwan
+Country,Slovenia
+Country,United Arab Emirates
+Country,United Kingdom
+Country,United States
+Country,Uruguay
+Country,Uzbekistan
+Country,Vanuatu
+Country,Venezuela
+Country,Vietnam
+Country,Wallis And Futuna
+Country,Yemen
+Country,Zambia
+Country,Ukraine
+Country,Zimbabwe
+Country,American Samoa
+Country,Cayman Islands
+Country,Czechoslovakia
+Country,Falkland Islands
+Country,Guam
+Country,Netherlands Antilles
+Country,Serbia And Montenegro
+Country,United States Virgin Islands
+Country,Western Sahara
+Country,Yugoslavia
+Country,Gibraltar
+Country,Ussr
+Country,Slovakia
+Country,Uganda
+Country,Turks And Caicos Islands
+Country,Solomon Islands
+Country,Somalia
+Country,South Africa
+Country,South Korea
+Country,South Sudan
+Country,Spain
+Country,Sri Lanka
+Country,St. Kitts-Nevis-Anguilla
+Country,Sudan
+Country,Suriname
+Country,Sweden
+Country,Tuvalu
+Country,Switzerland
+Country,Micronesia (Country)
+Country,Tajikistan
+Country,Tanzania
+Country,Thailand
+Country,Timor
+Country,Togo
+Country,Tonga
+Country,Trinidad And Tobago
+Country,Tunisia
+Country,Turkey
+Country,Turkmenistan
+Country,Syria
+Country,Mexico
+Country,Niger
+Country,Mauritius
+Country,Cape Verde
+Country,Central African Republic
+Country,Chad
+Country,Chile
+Country,China
+Country,Christmas Island
+Country,Colombia
+Country,Comoros
+Country,Congo
+Country,Cook Islands
+Country,Costa Rica
+Country,Cote D'Ivoire
+Country,Croatia
+Country,Cuba
+Country,Canada
+Country,Curacao
+Country,Mayotte
+Country,Democratic Republic Of Congo
+Country,Denmark
+Country,Djibouti
+Country,Dominica
+Country,Dominican Republic
+Country,Ecuador
+Country,Egypt
+Country,El Salvador
+Country,Equatorial Guinea
+Country,Eritrea
+Country,Estonia
+Country,Eswatini
+Country,Ethiopia
+Country,Cyprus
+Country,Cameroon
+Country,Cambodia
+Country,Burundi
+Country,Albania
+Country,Algeria
+Country,Andorra
+Country,Angola
+Country,Anguilla
+Country,Antigua And Barbuda
+Country,Argentina
+Country,Armenia
+Country,Aruba
+Country,Australia
+Country,Austria
+Country,Azerbaijan
+Country,Bahamas
+Country,Bahrain
+Country,Bangladesh
+Country,Barbados
+Country,Belarus
+Country,Burkina Faso
+Country,Bulgaria
+Country,Brunei
+Country,British Virgin Islands
+Country,Brazil
+Country,Botswana
+Country,Faeroe Islands
+Country,Bosnia And Herzegovina
+Country,Bolivia
+Country,Bhutan
+Country,Bermuda
+Country,Benin
+Country,Belize
+Country,Belgium
+Country,Bonaire Sint Eustatius And Saba
+Country,Fiji
+Country,Czechia
+Country,France
+Country,Iran
+Country,Iraq
+Country,Ireland
+Country,Israel
+Country,Italy
+Country,Jamaica
+Country,Japan
+Country,Jordan
+Country,Kazakhstan
+Country,Kenya
+Country,Kiribati
+Country,Kosovo
+Country,Maldives
+Country,Mali
+Country,Kyrgyzstan
+Country,Latvia
+Country,Lebanon
+Country,Leeward Islands
+Country,Lesotho
+Country,Finland
+Country,Liberia
+Country,Libya
+Country,Liechtenstein
+Country,Malaysia
+Country,Lithuania
+Country,Malawi
+Country,Luxembourg
+Country,Macao
+Country,Laos
+Country,Indonesia
+Country,Kuwait
+Country,Malta
+Country,Mauritania
+Country,India
+Country,French Equatorial Africa
+Country,French Guiana
+Country,French Polynesia
+Country,French West Africa
+Country,Gabon
+Country,Gambia
+Country,Georgia
+Country,Germany
+Country,Ghana
+Country,Greece
+Country,Greenland
+Country,Madagascar
+Country,Honduras
+Country,Guadeloupe
+Country,Guatemala
+Country,Guinea
+Country,Guinea-Bissau
+Country,Guyana
+Country,Martinique
+Country,Haiti
+Country,Marshall Islands
+Country,Iceland
+Country,Hong Kong
+Country,Grenada
+Country,Hungary
+Eia?,Opec (Eia)
+Eia?,U.S. Pacific Islands (Eia)
+Eia?,Oecd - Europe (Eia)
+Eia?,Oecd - Asia And Oceania (Eia)
+Eia?,Oecd - North America (Eia)
+Eia?,Opec - Africa (Eia)
+Eia?,Persian Gulf (Eia)
+Eia?,Other Non-Oecd - America (Eia)
+Eia?,Other Non-Oecd - Asia (Eia)
+Eia?,Other Non-Oecd - Europe And Eurasia (Eia)
+Eia?,Oecd (Eia)
+Eia?,Wake Island (Eia)
+Eia?,South Korea And Other Oecd Asia (Eia)
+Eia?,Opec - South America (Eia)
+Eia?,Non-Opec (Eia)
+Eia?,Ieo - Africa (Eia)
+Eia?,Middle East (Eia)
+Eia?,"Mexico, Chile, And Other Oecd Americas (Eia)"
+Eia?,Ieo Oecd - Europe (Eia)
+Eia?,Ieo - Middle East (Eia)
+Eia?,Hawaiian Trade Zone (Eia)
+Eia?,West Germany (Eia)
+Eia?,European Union (Eia)
+Eia?,Eurasia (Eia)
+Eia?,East Germany (Eia)
+Eia?,Australia And New Zealand (Eia)
+Eia?,Asia & Oceania (Eia)
+Eia?,Non-Oecd (Eia)
+Eia?,Central & South America (Eia)
+Ember?,Latin America And Caribbean (Ember)
+Ember?,G7 (Ember)
+Ember?,G20 (Ember)
+Ember?,Oecd (Ember)
+Ember?,Middle East (Ember)
+Exlusive Regions,Europe (Excl. Eu-27)
+Exlusive Regions,Europe (Excl. Eu-28)
+Exlusive Regions,European Union (27)
+Exlusive Regions,European Union (28)
+Exlusive Regions,Asia (Excl. China & India)
+Exlusive Regions,North America (Excl. Usa)
+Income Level,Lower-Middle-Income Countries
+Income Level,Low-Income Countries
+Income Level,High-Income Countries
+Income Level,Upper-Middle-Income Countries
+Other,Kuwaiti Oil Fires
+Other,International Transport
+World,World
