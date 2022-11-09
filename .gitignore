@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/bronze_tables/~$income_level_lookup.xlsx
+/docs/~$ta_sources_ciatation.docx
