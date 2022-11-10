@@ -1,11 +1,9 @@
-# global_yearly_metrics_visualizer
+# Global Metrics Visualizer
 
 ## 1. Introduction
 
 This project is a free tool for anyone to visualize and understand global metrics related to CO2 emissions.
 You can also fork the project and experiment with your own metrics! Just plug in data in the same format and see what insights you can find!
-
----
 
 ## 2. Navigation
 
@@ -15,15 +13,23 @@ For those who want to dive even deeper, you can explore the visualization notebo
 
 Finally, you can customize the data prep or forecast scripts and expand them to build a bigger system.
   
----
-
 ## 3. File Structure
 
 ### Main Pipeline Scripts
 
+Main pipeline scripts to run in sequence.
+
 - `1_data_prep_notebooks`: The data preparation scripts ordered as `D1_join_metric_data`, `D2_data_enrichment`. Output of `D2` is used for `M1` and visualizations.
-- `2_enrichment_models_notebooks`: Currently only has `M1_forecast_metric` to 
-- `3_viz_notebooks`: The data preparation scripts ordered as `D1_`, `D2_`
+- `2_enrichment_models_notebooks`: Currently only has `M1_forecast_metric` to forecast CO2 emissions per country.
+- `3_viz_notebooks`: Visualization Notebooks for the above output.
+
+### Data
+
+- The raw datasets and datasets generated in pipelines.
+
+### Dahsboard
+
+- The interactive dashboard webapp implamented in Plotly
 
 ## Ciatations
 
