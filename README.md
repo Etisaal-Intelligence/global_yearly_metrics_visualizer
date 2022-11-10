@@ -22,8 +22,16 @@ Finally, you can customize the data prep or forecast scripts and expand them to 
 ### Main Pipeline Scripts
 
 - `1_data_prep_notebooks`: The data preparation scripts ordered as `D1_join_metric_data`, `D2_data_enrichment`. Output of `D2` is used for `M1` and visualizations.
-- `2_enrichment_models_notebooks`: Currently only has `M1_forecast_metric` to 
-- `3_viz_notebooks`: The data preparation scripts ordered as `D1_`, `D2_`
+- `2_enrichment_models_notebooks`: Currently only has `M1_forecast_metric` to forecast CO2 emissions per country.
+- `3_viz_notebooks`: Visualization Notebooks for the above output.
+
+### Data
+
+- The raw datasets and datasets generated in pipelines.
+
+### Dahsboard
+
+- The interactive dashboard webapp implamented in Plotly
 
 ## Ciatations
 
