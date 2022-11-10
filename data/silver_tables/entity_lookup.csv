@@ -1,322 +1,236 @@
 Entity_Category,Entity,Code,Income group,Lending category
-Bp?,Middle East (Bp),,,
-Bp?,Middle Africa (Bp),,,
-Bp?,Other Middle East (Bp),,,
-Bp?,Other Middle Africa (Bp),,,
-Bp?,Other Europe (Bp),,,
-Bp?,Other Eastern Africa (Bp),,,
-Bp?,Other Caribbean (Bp),,,
-Bp?,Total Opec (Bp),,,
-Bp?,Other Northern Africa (Bp),,,
-Bp?,Total Non-Opec (Bp),,,
-Bp?,Other Asia Pacific (Bp),,,
-Bp?,Other Africa (Bp),,,
-Bp?,Oecd (Bp),,,
-Bp?,Central America (Bp),,,
-Bp?,Cis (Bp),,,
-Bp?,North America (Bp),,,
-Bp?,Non-Oecd (Bp),,,
-Bp?,Other Cis (Bp),,,
-Bp?,Other South America (Bp),,,
-Bp?,South And Central America (Bp),,,
-Bp?,Other Southern Africa (Bp),,,
-Bp?,Africa (Bp),,,
-Bp?,Europe (Bp),,,
-Bp?,Other South And Central America (Bp),,,
-Bp?,Eastern Africa (Bp),,,
-Bp?,Western Africa (Bp),,,
-Bp?,Asia Pacific (Bp),,,
-Bp?,Other Western Africa (Bp),,,
-Continent,Africa,,,
-Continent,Antarctica,,,
-Continent,North America,NAC,,
-Continent,Europe,,,
-Continent,South America,,,
-Continent,Asia,,,
-Country,Palau,PLW,Upper middle income,IBRD
-Country,North Korea,,,
-Country,Peru,PER,Upper middle income,IBRD
-Country,North Macedonia,MKD,Upper middle income,IBRD
-Country,Paraguay,PRY,Upper middle income,IBRD
-Country,Oceania,,,
-Country,Oman,OMN,High income,
-Country,Papua New Guinea,PNG,Lower middle income,Blend
-Country,Panama Canal Zone,,,
-Country,Panama,PAN,High income,IBRD
-Country,Pakistan,PAK,Lower middle income,Blend
-Country,Palestine,,,
-Country,Norway,NOR,High income,
-Country,Afghanistan,AFG,Low income,IDA
-Country,Nicaragua,NIC,Lower middle income,IDA
+Continent,Antarctica,ATA,,
+Country,Aruba,ABW,High income,
+Country,New Caledonia,NCL,High income,
+Country,Niger,NER,Low income,IDA
 Country,Nigeria,NGA,Lower middle income,Blend
-Country,Luxembourg,LUX,High income,
-Country,Macao,,,
-Country,Madagascar,MDG,Low income,IDA
+Country,Nicaragua,NIC,Lower middle income,IDA
+Country,Niue,NIU,,
+Country,Netherlands,NLD,High income,
+Country,Norway,NOR,High income,
+Country,Nepal,NPL,Lower middle income,IDA
+Country,Nauru,NRU,High income,IBRD
+Country,New Zealand,NZL,High income,
+Country,Oman,OMN,High income,
+Country,Czechoslovakia,OWID_CZS,,
+Country,Kosovo,OWID_KOS,,
+Country,Serbia And Montenegro,OWID_SRM,,
+Country,Ussr,OWID_USS,,
+Country,Yugoslavia,OWID_YGS,,
+Country,Pakistan,PAK,Lower middle income,Blend
+Country,Panama,PAN,High income,IBRD
+Country,Peru,PER,Upper middle income,IBRD
+Country,Philippines,PHL,Lower middle income,IBRD
+Country,Palau,PLW,Upper middle income,IBRD
+Country,Papua New Guinea,PNG,Lower middle income,Blend
+Country,Poland,POL,High income,IBRD
+Country,Puerto Rico,PRI,High income,
+Country,North Korea,PRK,Low income,
+Country,Namibia,NAM,Upper middle income,IBRD
+Country,Mayotte,MYT,,
+Country,Malaysia,MYS,Upper middle income,IBRD
 Country,Malawi,MWI,Low income,IDA
-Country,Zambia,ZMB,Low income,IDA
+Country,Saint Lucia,LCA,Upper middle income,Blend
+Country,Liechtenstein,LIE,High income,
+Country,Sri Lanka,LKA,Lower middle income,IBRD
+Country,Lesotho,LSO,Lower middle income,IDA
+Country,Lithuania,LTU,High income,
+Country,Luxembourg,LUX,High income,
+Country,Latvia,LVA,High income,
+Country,Macao,MAC,High income,
+Country,Morocco,MAR,Lower middle income,IBRD
+Country,Moldova,MDA,Upper middle income,IBRD
+Country,Madagascar,MDG,Low income,IDA
 Country,Maldives,MDV,Upper middle income,IDA
+Country,Mexico,MEX,Upper middle income,IBRD
+Country,Marshall Islands,MHL,Upper middle income,IDA
+Country,North Macedonia,MKD,Upper middle income,IBRD
 Country,Mali,MLI,Low income,IDA
 Country,Malta,MLT,High income,
-Country,Marshall Islands,MHL,Upper middle income,IDA
-Country,Martinique,,,
-Country,Mauritania,MRT,Lower middle income,IDA
-Country,Mauritius,MUS,Upper middle income,IBRD
-Country,Mayotte,,,
-Country,Mexico,MEX,Upper middle income,IBRD
-Country,Niue,,,
-Country,Micronesia (Country),,,
-Country,Mongolia,MNG,Lower middle income,IBRD
-Country,Montenegro,MNE,Upper middle income,IBRD
-Country,Montserrat,,,
-Country,Morocco,MAR,Lower middle income,IBRD
-Country,Mozambique,MOZ,Low income,IDA
 Country,Myanmar,MMR,Lower middle income,IDA
-Country,Namibia,NAM,Upper middle income,IBRD
-Country,Nauru,NRU,High income,IBRD
-Country,Nepal,NPL,Lower middle income,IDA
-Country,Netherlands,NLD,High income,
-Country,Netherlands Antilles,,,
-Country,New Caledonia,NCL,High income,
-Country,New Zealand,NZL,High income,
-Country,Niger,NER,Low income,IDA
-Country,Moldova,MDA,Upper middle income,IBRD
-Country,Philippines,PHL,Lower middle income,IBRD
-Country,Russia,,,
+Country,Montenegro,MNE,Upper middle income,IBRD
+Country,Mongolia,MNG,Lower middle income,IBRD
+Country,Mozambique,MOZ,Low income,IDA
+Country,Mauritania,MRT,Lower middle income,IDA
+Country,Montserrat,MSR,,
+Country,Martinique,MTQ,,
+Country,Mauritius,MUS,Upper middle income,IBRD
 Country,Portugal,PRT,High income,
-Country,Switzerland,CHE,High income,
-Country,Syria,,,
-Country,Taiwan,,,
+Country,Paraguay,PRY,Upper middle income,IBRD
+Country,Palestine,PSE,Lower middle income,
+Country,French Polynesia,PYF,High income,
 Country,Tajikistan,TJK,Lower middle income,IDA
-Country,Tanzania,TZA,Lower middle income,IDA
-Country,Thailand,THA,Upper middle income,IBRD
-Country,Timor,,,
-Country,Togo,TGO,Low income,IDA
+Country,Turkmenistan,TKM,Upper middle income,IBRD
+Country,Timor,TLS,Lower middle income,Blend
 Country,Tonga,TON,Upper middle income,IDA
 Country,Trinidad And Tobago,TTO,High income,IBRD
 Country,Tunisia,TUN,Lower middle income,IBRD
-Country,Turkey,,,
-Country,Turkmenistan,TKM,Upper middle income,IBRD
-Country,Turks And Caicos Islands,TCA,High income,
+Country,Turkey,TUR,Upper middle income,IBRD
 Country,Tuvalu,TUV,Upper middle income,IDA
-Country,Ussr,,,
+Country,Taiwan,TWN,High income,
+Country,Tanzania,TZA,Lower middle income,IDA
 Country,Uganda,UGA,Low income,IDA
-Country,Yugoslavia,,,
-Country,Yemen,,,
-Country,Western Sahara,,,
-Country,Wallis And Futuna,,,
-Country,Vietnam,VNM,Lower middle income,IBRD
-Country,Venezuela,,,
-Country,Sweden,SWE,High income,
-Country,Vanuatu,VUT,Lower middle income,IDA
-Country,Uruguay,URY,High income,IBRD
-Country,United States Virgin Islands,,,
-Country,United States,USA,High income,
-Country,United Kingdom,GBR,High income,
-Country,United Arab Emirates,ARE,High income,
 Country,Ukraine,UKR,Lower middle income,IBRD
+Country,Uruguay,URY,High income,IBRD
+Country,United States,USA,High income,
 Country,Uzbekistan,UZB,Lower middle income,Blend
-Country,Poland,POL,High income,IBRD
-Country,Suriname,SUR,Upper middle income,IBRD
-Country,St. Kitts-Nevis-Anguilla,,,
-Country,Puerto Rico,PRI,High income,
-Country,Qatar,QAT,High income,
-Country,Reunion,,,
-Country,Romania,ROU,High income,IBRD
-Country,Lithuania,LTU,High income,
-Country,Rwanda,RWA,Low income,IDA
-Country,Ryukyu Islands,,,
-Country,Saint Helena,,,
-Country,Saint Kitts And Nevis,,,
-Country,Saint Lucia,,,
-Country,Saint Pierre And Miquelon,,,
-Country,Saint Vincent And The Grenadines,,,
-Country,Samoa,WSM,Lower middle income,IDA
-Country,Sao Tome And Principe,,,
-Country,Saudi Arabia,SAU,High income,
-Country,Senegal,SEN,Lower middle income,IDA
-Country,Serbia,SRB,Upper middle income,IBRD
-Country,Sri Lanka,LKA,Lower middle income,IBRD
-Country,Spain,ESP,High income,
-Country,South Sudan,SSD,Low income,IDA
-Country,South Korea,,,
-Country,South Africa,ZAF,Upper middle income,IBRD
-Country,Somalia,SOM,Low income,IDA
-Country,Sudan,SDN,Low income,IDA
-Country,Solomon Islands,SLB,Lower middle income,IDA
-Country,Slovakia,,,
-Country,Sint Maarten (Dutch Part),SXM,High income,
-Country,Singapore,SGP,High income,
-Country,Sierra Leone,SLE,Low income,IDA
-Country,Seychelles,SYC,High income,IBRD
-Country,Serbia And Montenegro,,,
-Country,Slovenia,SVN,High income,
-Country,Liechtenstein,LIE,High income,
-Country,Malaysia,MYS,Upper middle income,IBRD
-Country,Liberia,LBR,Low income,IDA
-Country,Cyprus,CYP,High income,
-Country,Curacao,,,
-Country,Cuba,CUB,Upper middle income,
-Country,Croatia,HRV,High income,IBRD
-Country,Cote D'Ivoire,,,
-Country,Costa Rica,CRI,Upper middle income,IBRD
-Country,Cook Islands,,,
-Country,Congo,,,
-Country,Comoros,COM,Lower middle income,IDA
-Country,Colombia,COL,Upper middle income,IBRD
-Country,Christmas Island,,,
-Country,China,CHN,Upper middle income,IBRD
-Country,Chile,CHL,High income,IBRD
-Country,Chad,TCD,Low income,IDA
-Country,Central African Republic,CAF,Low income,IDA
-Country,Czechia,,,
-Country,Cayman Islands,CYM,High income,
-Country,Czechoslovakia,,,
-Country,Denmark,DNK,High income,
-Country,Fiji,FJI,Upper middle income,Blend
-Country,Falkland Islands,,,
-Country,Faeroe Islands,,,
-Country,Libya,LBY,Upper middle income,IBRD
-Country,Ethiopia,ETH,Low income,IDA
-Country,Eswatini,SWZ,Lower middle income,IBRD
-Country,Estonia,EST,High income,
-Country,Eritrea,ERI,Low income,IDA
-Country,Equatorial Guinea,GNQ,Upper middle income,IBRD
-Country,El Salvador,SLV,Lower middle income,IBRD
-Country,Egypt,,,
-Country,Ecuador,ECU,Upper middle income,IBRD
-Country,Dominican Republic,DOM,Upper middle income,IBRD
-Country,Dominica,DMA,Upper middle income,Blend
-Country,Djibouti,DJI,Lower middle income,IDA
-Country,Democratic Republic Of Congo,,,
-Country,Finland,FIN,High income,
-Country,Cape Verde,,,
-Country,Cameroon,CMR,Lower middle income,Blend
-Country,Bahrain,BHR,High income,
-Country,Bahamas,,,
-Country,Azerbaijan,AZE,Upper middle income,IBRD
-Country,Austria,AUT,High income,
-Country,Australia,AUS,High income,
-Country,Aruba,ABW,High income,
-Country,Armenia,ARM,Upper middle income,IBRD
-Country,Argentina,ARG,Upper middle income,IBRD
-Country,Antigua And Barbuda,ATG,High income,IBRD
-Country,Anguilla,,,
-Country,Angola,AGO,Lower middle income,IBRD
-Country,Andorra,AND,High income,
-Country,American Samoa,ASM,Upper middle income,
-Country,Algeria,DZA,Lower middle income,IBRD
-Country,Albania,ALB,Upper middle income,IBRD
-Country,Bangladesh,BGD,Lower middle income,IDA
-Country,Canada,CAN,High income,
-Country,Barbados,BRB,High income,
-Country,Belgium,BEL,High income,
-Country,Cambodia,KHM,Lower middle income,IDA
-Country,Burundi,BDI,Low income,IDA
-Country,Burkina Faso,BFA,Low income,IDA
-Country,Bulgaria,BGR,Upper middle income,IBRD
-Country,Brunei,,,
+Country,Saint Vincent And The Grenadines,VCT,Upper middle income,Blend
+Country,Venezuela,VEN,,IBRD
 Country,British Virgin Islands,VGB,High income,
-Country,Brazil,BRA,Upper middle income,IBRD
-Country,Botswana,BWA,Upper middle income,IBRD
-Country,Bosnia And Herzegovina,BIH,Upper middle income,IBRD
-Country,Bonaire Sint Eustatius And Saba,,,
-Country,Bolivia,BOL,Lower middle income,IBRD
+Country,United States Virgin Islands,VIR,High income,
+Country,Vietnam,VNM,Lower middle income,IBRD
+Country,Vanuatu,VUT,Lower middle income,IDA
+Country,Wallis And Futuna,WLF,,
+Country,Samoa,WSM,Lower middle income,IDA
+Country,Yemen,YEM,Low income,IDA
+Country,South Africa,ZAF,Upper middle income,IBRD
+Country,Thailand,THA,Upper middle income,IBRD
+Country,Togo,TGO,Low income,IDA
+Country,Chad,TCD,Low income,IDA
+Country,Turks And Caicos Islands,TCA,High income,
+Country,Qatar,QAT,High income,
+Country,Reunion,REU,,
+Country,Romania,ROU,High income,IBRD
+Country,Russia,RUS,Upper middle income,IBRD
+Country,Rwanda,RWA,Low income,IDA
+Country,Saudi Arabia,SAU,High income,
+Country,Sudan,SDN,Low income,IDA
+Country,Senegal,SEN,Lower middle income,IDA
+Country,Singapore,SGP,High income,
+Country,Saint Helena,SHN,,
+Country,Solomon Islands,SLB,Lower middle income,IDA
+Country,Sierra Leone,SLE,Low income,IDA
+Country,Libya,LBY,Upper middle income,IBRD
+Country,El Salvador,SLV,Lower middle income,IBRD
+Country,Saint Pierre And Miquelon,SPM,,
+Country,Serbia,SRB,Upper middle income,IBRD
+Country,South Sudan,SSD,Low income,IDA
+Country,Sao Tome And Principe,STP,Lower middle income,IDA
+Country,Suriname,SUR,Upper middle income,IBRD
+Country,Slovakia,SVK,High income,
+Country,Slovenia,SVN,High income,
+Country,Sweden,SWE,High income,
+Country,Eswatini,SWZ,Lower middle income,IBRD
+Country,Sint Maarten (Dutch Part),SXM,High income,
+Country,Seychelles,SYC,High income,IBRD
+Country,Syria,SYR,Low income,IDA
+Country,Somalia,SOM,Low income,IDA
+Country,Zambia,ZMB,Low income,IDA
+Country,Liberia,LBR,Low income,IDA
+Country,Laos,LAO,Lower middle income,IDA
+Country,Brunei,BRN,High income,
 Country,Bhutan,BTN,Lower middle income,IDA
+Country,Botswana,BWA,Upper middle income,IBRD
+Country,Central African Republic,CAF,Low income,IDA
+Country,Canada,CAN,High income,
+Country,Switzerland,CHE,High income,
+Country,Chile,CHL,High income,IBRD
+Country,China,CHN,Upper middle income,IBRD
+Country,Cote D'Ivoire,CIV,Lower middle income,IDA
+Country,Cameroon,CMR,Lower middle income,Blend
+Country,Democratic Republic Of Congo,COD,Low income,IDA
+Country,Congo,COG,Lower middle income,Blend
+Country,Cook Islands,COK,,
+Country,Colombia,COL,Upper middle income,IBRD
+Country,Comoros,COM,Lower middle income,IDA
+Country,Cape Verde,CPV,Lower middle income,Blend
+Country,Costa Rica,CRI,Upper middle income,IBRD
+Country,Cuba,CUB,Upper middle income,
+Country,Curacao,CUW,High income,
+Country,Christmas Island,CXR,,
+Country,Cayman Islands,CYM,High income,
+Country,Cyprus,CYP,High income,
+Country,Czechia,CZE,High income,
+Country,Germany,DEU,High income,
+Country,Djibouti,DJI,Lower middle income,IDA
+Country,Barbados,BRB,High income,
+Country,Brazil,BRA,Upper middle income,IBRD
+Country,Bolivia,BOL,Lower middle income,IBRD
 Country,Bermuda,BMU,High income,
+Country,Afghanistan,AFG,Low income,IDA
+Country,Angola,AGO,Lower middle income,IBRD
+Country,Anguilla,AIA,,
+Country,Albania,ALB,Upper middle income,IBRD
+Country,Andorra,AND,High income,
+Country,Netherlands Antilles,ANT,,
+Country,United Arab Emirates,ARE,High income,
+Country,Argentina,ARG,Upper middle income,IBRD
+Country,Armenia,ARM,Upper middle income,IBRD
+Country,American Samoa,ASM,Upper middle income,
+Country,Antigua And Barbuda,ATG,High income,IBRD
+Country,Australia,AUS,High income,
+Country,Dominica,DMA,Upper middle income,Blend
+Country,Austria,AUT,High income,
+Country,Burundi,BDI,Low income,IDA
+Country,Belgium,BEL,High income,
 Country,Benin,BEN,Lower middle income,IDA
-Country,Belize,BLZ,Upper middle income,IBRD
+Country,Bonaire Sint Eustatius And Saba,BES,,
+Country,Burkina Faso,BFA,Low income,IDA
+Country,Bangladesh,BGD,Lower middle income,IDA
+Country,Bulgaria,BGR,Upper middle income,IBRD
+Country,Bahrain,BHR,High income,
+Country,Bahamas,BHS,High income,
+Country,Bosnia And Herzegovina,BIH,Upper middle income,IBRD
 Country,Belarus,BLR,Upper middle income,IBRD
-Country,France,FRA,High income,
-Country,Zimbabwe,ZWE,Lower middle income,Blend
-Country,French Guiana,,,
-Country,Guam,GUM,High income,
+Country,Belize,BLZ,Upper middle income,IBRD
+Country,Azerbaijan,AZE,Upper middle income,IBRD
 Country,Lebanon,LBN,Lower middle income,IBRD
-Country,Guatemala,GTM,Upper middle income,IBRD
-Country,Guinea,GIN,Low income,IDA
-Country,Laos,,,
+Country,Denmark,DNK,High income,
+Country,Algeria,DZA,Lower middle income,IBRD
 Country,Guyana,GUY,Upper middle income,IDA
-Country,Haiti,HTI,Lower middle income,IDA
-Country,French Equatorial Africa,,,
+Country,Hong Kong,HKG,High income,
 Country,Honduras,HND,Lower middle income,IDA
-Country,Hong Kong,,,
+Country,Croatia,HRV,High income,IBRD
+Country,Haiti,HTI,Lower middle income,IDA
 Country,Hungary,HUN,High income,
-Country,Iceland,ISL,High income,
-Country,India,IND,Lower middle income,IBRD
-Country,Guadeloupe,,,
 Country,Indonesia,IDN,Lower middle income,IBRD
-Country,Iraq,IRQ,Upper middle income,IBRD
+Country,India,IND,Lower middle income,IBRD
 Country,Ireland,IRL,High income,
+Country,Iran,IRN,Lower middle income,IBRD
+Country,Iraq,IRQ,Upper middle income,IBRD
+Country,Iceland,ISL,High income,
 Country,Israel,ISR,High income,
 Country,Italy,ITA,High income,
 Country,Jamaica,JAM,Upper middle income,IBRD
-Country,Japan,JPN,High income,
 Country,Jordan,JOR,Upper middle income,IBRD
+Country,Japan,JPN,High income,
 Country,Kazakhstan,KAZ,Upper middle income,IBRD
 Country,Kenya,KEN,Lower middle income,Blend
+Country,Kyrgyzstan,KGZ,Lower middle income,IDA
+Country,Cambodia,KHM,Lower middle income,IDA
 Country,Kiribati,KIR,Lower middle income,IDA
-Country,Kosovo,XKX,Upper middle income,IDA
+Country,Saint Kitts And Nevis,KNA,High income,IBRD
+Country,South Korea,KOR,High income,
 Country,Kuwait,KWT,High income,
-Country,Latvia,LVA,High income,
-Country,Iran,,,
-Country,Grenada,GRD,Upper middle income,Blend
-Country,Guinea-Bissau,GNB,Low income,IDA
-Country,Kyrgyzstan,,,
-Country,Gambia,,,
+Country,Guam,GUM,High income,
+Country,French Guiana,GUF,,
+Country,Guatemala,GTM,Upper middle income,IBRD
+Country,Greenland,GRL,High income,
+Country,Ecuador,ECU,Upper middle income,IBRD
+Country,Egypt,EGY,Lower middle income,IBRD
+Country,Eritrea,ERI,Low income,IDA
+Country,Western Sahara,ESH,,
+Country,Spain,ESP,High income,
+Country,Estonia,EST,High income,
+Country,Ethiopia,ETH,Low income,IDA
+Country,Finland,FIN,High income,
+Country,Fiji,FJI,Upper middle income,Blend
+Country,Falkland Islands,FLK,,
+Country,France,FRA,High income,
+Country,Dominican Republic,DOM,Upper middle income,IBRD
+Country,Faeroe Islands,FRO,High income,
+Country,Gabon,GAB,Upper middle income,IBRD
+Country,United Kingdom,GBR,High income,
 Country,Georgia,GEO,Upper middle income,IBRD
-Country,Germany,DEU,High income,
-Country,French West Africa,,,
 Country,Ghana,GHA,Lower middle income,IDA
 Country,Gibraltar,GIB,High income,
+Country,Guinea,GIN,Low income,IDA
+Country,Guadeloupe,GLP,,
+Country,Gambia,GMB,Low income,IDA
+Country,Guinea-Bissau,GNB,Low income,IDA
+Country,Equatorial Guinea,GNQ,Upper middle income,IBRD
 Country,Greece,GRC,High income,
-Country,Greenland,GRL,High income,
-Country,Gabon,GAB,Upper middle income,IBRD
-Country,Lesotho,LSO,Lower middle income,IDA
-Country,French Polynesia,PYF,High income,
-Country,Leeward Islands,,,
-Eia?,Other Non-Oecd - America (Eia),,,
-Eia?,"Mexico, Chile, And Other Oecd Americas (Eia)",,,
-Eia?,U.S. Pacific Islands (Eia),,,
-Eia?,European Union (Eia),,,
-Eia?,West Germany (Eia),,,
-Eia?,Other Non-Oecd - Asia (Eia),,,
-Eia?,Eurasia (Eia),,,
-Eia?,Middle East (Eia),,,
-Eia?,Australia And New Zealand (Eia),,,
-Eia?,Other Non-Oecd - Europe And Eurasia (Eia),,,
-Eia?,Asia & Oceania (Eia),,,
-Eia?,Persian Gulf (Eia),,,
-Eia?,Oecd (Eia),,,
-Eia?,Opec - Africa (Eia),,,
-Eia?,Oecd - Asia And Oceania (Eia),,,
-Eia?,Oecd - Europe (Eia),,,
-Eia?,Oecd - North America (Eia),,,
-Eia?,Non-Opec (Eia),,,
-Eia?,Non-Oecd (Eia),,,
-Eia?,Opec (Eia),,,
-Eia?,Opec - South America (Eia),,,
-Eia?,Wake Island (Eia),,,
-Eia?,Central & South America (Eia),,,
-Eia?,Hawaiian Trade Zone (Eia),,,
-Eia?,East Germany (Eia),,,
-Eia?,Ieo - Africa (Eia),,,
-Eia?,Ieo - Middle East (Eia),,,
-Eia?,Ieo Oecd - Europe (Eia),,,
-Eia?,South Korea And Other Oecd Asia (Eia),,,
-Ember?,G7 (Ember),,,
-Ember?,Middle East (Ember),,,
-Ember?,Oecd (Ember),,,
-Ember?,Latin America And Caribbean (Ember),,,
-Ember?,G20 (Ember),,,
-Exlusive Regions,Europe (Excl. Eu-28),,,
-Exlusive Regions,Asia (Excl. China & India),,,
-Exlusive Regions,North America (Excl. Usa),,,
-Exlusive Regions,Europe (Excl. Eu-27),,,
-Exlusive Regions,European Union (27),,,
-Exlusive Regions,European Union (28),,,
-Income Level,Upper-Middle-Income Countries,,,
-Income Level,Lower-Middle-Income Countries,,,
-Income Level,Low-Income Countries,,,
-Income Level,High-Income Countries,,,
-Other,International Transport,,,
-Other,Kuwaiti Oil Fires,,,
-World,World,WLD,,
+Country,Grenada,GRD,Upper middle income,Blend
+Country,Micronesia (Country),FSM,Lower middle income,IDA
+Country,Zimbabwe,ZWE,Lower middle income,Blend
+World,World,OWID_WRL,,
