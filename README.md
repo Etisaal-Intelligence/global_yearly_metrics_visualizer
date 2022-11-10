@@ -1,11 +1,9 @@
-# global_yearly_metrics_visualizer
+# Global Metrics Visualizer
 
 ## 1. Introduction
 
 This project is a free tool for anyone to visualize and understand global metrics related to CO2 emissions.
 You can also fork the project and experiment with your own metrics! Just plug in data in the same format and see what insights you can find!
-
----
 
 ## 2. Navigation
 
@@ -15,8 +13,6 @@ For those who want to dive even deeper, you can explore the visualization notebo
 
 Finally, you can customize the data prep or forecast scripts and expand them to build a bigger system.
   
----
-
 ## 3. File Structure
 
 ### Main Pipeline Scripts
